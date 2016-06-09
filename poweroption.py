@@ -1,4 +1,3 @@
-
 from math import exp
 def power_option(S,T,sigma,r,n,alpha):
 	level=[]

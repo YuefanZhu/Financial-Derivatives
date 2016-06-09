@@ -1,6 +1,3 @@
-# Problem6 Python
-# Yuefan Zhu
-# yz2835
 
 from math import exp
 def power_option(S,T,sigma,r,n,alpha):

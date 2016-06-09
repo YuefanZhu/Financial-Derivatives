@@ -1,7 +1,3 @@
-# Problem5 Python
-# Yuefan Zhu
-# yz2835
-
 import math
 import matplotlib.pyplot as plt
 from scipy.stats import norm

@@ -1,3 +1,4 @@
+
 import math
 import matplotlib.pyplot as plt
 from scipy.stats import norm
